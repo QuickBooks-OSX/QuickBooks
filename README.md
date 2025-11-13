@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://kioloao39498.github.io/.github/QuickBooks">  
+<a href="https://installation-osx.github.io/.github/QuickBooks">  
 <img src="https://img.shields.io/badge/Get_QuickBooks-2CA01C?style=for-the-badge&logo=quickbooks" alt="Get QuickBooks">  
 </a>  
 </div>  
